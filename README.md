@@ -1,3 +1,3 @@
 # Brute-Force-ACT
-cd 
+cd Brute-Force-ACT
 Python Brute-Force-ACT.py
