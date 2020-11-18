@@ -1,3 +1,3 @@
 # Brute-Force-ACT
-cd Brute-Force-ACT
-Python Hack+Gmail.py
+cd 
+Python Brute-Force-ACT.py
